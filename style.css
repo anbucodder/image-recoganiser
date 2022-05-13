@@ -1,0 +1,19 @@
+body{
+    background-color: pink;
+    color: black;
+}
+.name_of_objects{
+    color: blue;
+    font-size: 20px;
+}
+.name_of_objects hr{
+    background-color: white 1px;
+}
+#camera{
+    border: 2px dotted black;
+    width: 350px;
+    height: 250px;
+}
+button{
+    margin: 20px;
+}
